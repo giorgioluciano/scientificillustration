@@ -89,6 +89,7 @@ A curated list of references, software and other resources for scientific illust
 **Molecules**
 - [Atomic Blender](https://docs.blender.org/manual/en/latest/addons/import_export/mesh_atomic.html): Blender addon for importing and exporting atomic structures.
 - [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): Blender addon for creating and manipulating molecular structures.
+- [Crystal Nodes](https://giorgioluciano.github.io/CrystalNodes/): Blender addon for illustrating Crystal Minerals forms.
 - [Beautiful Atoms](https://github.com/beautiful-atoms/beautiful-atoms): Blender addon for visualizing atomic structures.
 - [AutoPack](https://www.autopack.org/install/blender-installation): Blender addon for packing objects into containers.
 

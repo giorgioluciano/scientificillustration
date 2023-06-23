@@ -53,6 +53,14 @@ A curated list of references, software and other resources for scientific illust
 - [ShareX](https://getsharex.com/): Free and open-source screenshot and screencast tool.
 - [Slicer](https://www.slicer.org/): Open-source software for medical image informatics and image-guided intervention.
 
+## Blender Addons
+**Molecules**
+- [Atomic Blender](https://docs.blender.org/manual/en/latest/addons/import_export/mesh_atomic.html): Blender addon for importing and exporting atomic structures.
+- [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): Blender addon for creating and manipulating molecular structures.
+- [Crystal Nodes](https://giorgioluciano.github.io/CrystalNodes/): Blender addon for illustrating Crystal Minerals forms.
+- [Beautiful Atoms](https://github.com/beautiful-atoms/beautiful-atoms): Blender addon for visualizing atomic structures.
+- [AutoPack](https://www.autopack.org/install/blender-installation): Blender addon for packing objects into containers.
+
 # Art and Science
 
 - Toumey, C. Cubism at the nanoscale. Nature Nanotech 2, 587–589 (2007). [Read Article](https://doi.org/10.1038/nnano.2007.310)
@@ -85,13 +93,6 @@ A curated list of references, software and other resources for scientific illust
 # Working as an Illustrator
 - doi: [10.1038/d42859-019-00107-y](https://doi.org/10.1038/d42859-019-00107-y)
 
-# Blender Addons
-**Molecules**
-- [Atomic Blender](https://docs.blender.org/manual/en/latest/addons/import_export/mesh_atomic.html): Blender addon for importing and exporting atomic structures.
-- [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): Blender addon for creating and manipulating molecular structures.
-- [Crystal Nodes](https://giorgioluciano.github.io/CrystalNodes/): Blender addon for illustrating Crystal Minerals forms.
-- [Beautiful Atoms](https://github.com/beautiful-atoms/beautiful-atoms): Blender addon for visualizing atomic structures.
-- [AutoPack](https://www.autopack.org/install/blender-installation): Blender addon for packing objects into containers.
 
 # Cell Viewers
 - [CellView](https://www.cg.tuwien.ac.at/cellview/): Visualization software for cellular structures.

@@ -88,12 +88,8 @@ A curated list of references, software and other resources for scientific illust
   - [National Gallery of Art Openaccess](https://www.nga.gov/open-access-images.html)
   - [Europeana](https://www.europeana.eu/en)
 
-- Dimensions
+- Dimensions in Scientific Illustration
   - Batt, C.A., Waldron, A.M. & Broadwater, N. Numbers, scale and symbols: the public understanding of nanotechnology. J Nanopart Res 10, 1141–1148 (2008). [Read Article](https://doi.org/10.1007/s11051-007-9344-1)
-
-# Working as an Illustrator
-- doi: [10.1038/d42859-019-00107-y](https://doi.org/10.1038/d42859-019-00107-y)
-
 
 # Cell Viewers
 - [CellView](https://www.cg.tuwien.ac.at/cellview/): Visualization software for cellular structures.

@@ -1,4 +1,7 @@
 # Essential Resources for Scientific Illustration
+
+
+
 A curated list of references, software and other resources for scientific illustration
 ## **Scientific Software for Molecular Representation**
 - [Chimera](https://www.cgl.ucsf.edu/chimera/): Software for molecular representation and visualization.

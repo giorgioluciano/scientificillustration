@@ -6,7 +6,7 @@ A curated list of references, software and other resources for scientific illust
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/): Molecular visualization program for displaying, animating, and analyzing large biomolecular systems.
 - [Avogadro](http://avogadro.cc/): Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 
-## **Modelling**  
+## **3D Modelling**  
 - [3ds Max](https://www.autodesk.com/products/3ds-max/overview): Professional 3D modeling, animation, and rendering software.
 - [Maya](https://www.autodesk.com/products/maya/overview): 3D animation, modeling, simulation, and rendering software.
 - [Houdini](https://www.sidefx.com/products/houdini/): 3D animation and visual effects software.
@@ -32,12 +32,12 @@ A curated list of references, software and other resources for scientific illust
 - [Mitsuba](http://www.mitsuba-renderer.org/): Physically based renderer with advanced capabilities.
 
 ## **Compositing**  
-- Adobe Photoshop: Professional image editing and compositing software. 
+- [Adobe Photoshop](https://www.adobe.com/creativecloud/photography.html/): Professional image editing and compositing software. 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/): Color correction and non-linear video editing software.
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/): Vector graphic design software.
 
 ## **Others**  
-- Markdown: Lightweight markup language for creating formatted text using a plain-text editor.
+- Markdown:[Quadro](https://quarto.org/docs/get-started/hello/rstudio.html) Lightweight markup language for creating formatted text using a plain-text editor.
 - [PureRef](https://www.pureref.com/): Standalone reference image viewer and manager.
 - [Paintstorm Studio](https://paintstormstudio.com/): Digital painting software with natural brush effects.
 - [Marmoset](https://marmoset.co/): Real-time rendering and baking tools for 3D artists.
@@ -54,6 +54,7 @@ A curated list of references, software and other resources for scientific illust
 - [Slicer](https://www.slicer.org/): Open-source software for medical image informatics and image-guided intervention.
 
 ## Blender Addons
+
 **Molecules**
 - [Atomic Blender](https://docs.blender.org/manual/en/latest/addons/import_export/mesh_atomic.html): Blender addon for importing and exporting atomic structures.
 - [Molecular Nodes](https://bradyajohnston.github.io/MolecularNodes/): Blender addon for creating and manipulating molecular structures.

@@ -3,7 +3,7 @@
 A curated list of references, software and other resources for scientific illustration
 
 # **3d**
-## **Scientific Software **
+## **Scientific Software**
 - [Chimera](https://www.cgl.ucsf.edu/chimera/): Software for molecular representation and visualization. (free for academic use)
 - [Vesta](http://jp-minerals.org/vesta/en/): Visualization and analysis software for crystal structures. (free)
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/): Molecular visualization program for displaying, animating, and analyzing large biomolecular systems. (free for academic use)

@@ -47,6 +47,10 @@ A curated list of references, software and other resources for scientific illust
 - [Arnold](https://www.solidangle.com/arnold/): Production-quality rendering software.
 - [OctaneRender](https://home.otoy.com/render/octane-render/): GPU-accelerated renderer for high-quality production.
 
+## **Gumroad tutorials and Assets**
+
+
+
 # **2D**
 ## **Compositing**  
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/): Vector graphic design software. (paid, no subscription)

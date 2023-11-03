@@ -32,7 +32,7 @@ A curated list of references, software and other resources for scientific illust
 - [Crystal Nodes](https://giorgioluciano.github.io/CrystalNodes/): Blender addon for illustrating Crystal Minerals forms.
 - [Beautiful Atoms](https://github.com/beautiful-atoms/beautiful-atoms): Blender addon for visualizing atomic structures.
 - [AutoPack](https://www.autopack.org/install/blender-installation): Blender addon for packing objects into containers.
--
+
   
 ## **Rendering**  
 - [Mitsuba](http://www.mitsuba-renderer.org/): Physically based renderer with advanced capabilities. A wonderful tool for research. (free and opensource)
